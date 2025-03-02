@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "text": "How often do you find it difficult to concentrate on tasks?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Very often"
+    ],
+    "scores": {
+      "ADHD": [0, 1, 2, 4, 5],
+      "ADD": [0, 1, 3, 4, 5],
+      "Anxiety": [0, 0, 1, 2, 3],
+      "Depression": [0, 0, 1, 2, 2],
+      "Autism": [0, 0, 1, 1, 2]
+    },
+    "insights": {
+      "ADHD": "You reported significant difficulty maintaining concentration on tasks, which is a core symptom of ADHD.",
+      "ADD": "Your responses indicate challenges with sustained attention, a primary characteristic of ADD."
+    }
+  },
+  {
+    "id": 2,
+    "text": "Do you often feel restless or have trouble sitting still?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Very often"
+    ],
+    "scores": {
+      "ADHD": [0, 1, 3, 4, 5],
+      "ADD": [0, 0, 1, 2, 3],
+      "Anxiety": [0, 1, 2, 3, 4],
+      "Depression": [0, 0, 1, 1, 2],
+      "Autism": [0, 0, 1, 2, 3]
+    },
+    "insights": {
+      "ADHD": "Your reported restlessness and difficulty sitting still are consistent with the hyperactivity component of ADHD.",
+      "Anxiety": "The restlessness you experience may be related to underlying anxiety."
+    }
+  },
+  {
+    "id": 3,
+    "text": "How frequently do you feel worried or anxious without a clear reason?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Very often"
+    ],
+    "scores": {
+      "ADHD": [0, 0, 1, 2, 2],
+      "ADD": [0, 0, 1, 1, 2],
+      "Anxiety": [0, 1, 3, 4, 5],
+      "Depression": [0, 1, 2, 3, 3],
+      "Autism": [0, 0, 1, 2, 2]
+    },
+    "insights": {
+      "Anxiety": "Your responses indicate persistent worry without clear causes, which is a hallmark of generalized anxiety.",
+      "Depression": "Anxiety symptoms often co-occur with depression, and your responses suggest this may be happening."
+    }
+  },
+  {
+    "id": 4,
+    "text": "Do you experience persistent feelings of sadness or emptiness?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Very often"
+    ],
+    "scores": {
+      "ADHD": [0, 0, 1, 1, 2],
+      "ADD": [0, 0, 1, 1, 2],
+      "Anxiety": [0, 1, 2, 3, 3],
+      "Depression": [0, 1, 3, 4, 5],
+      "Autism": [0, 0, 1, 2, 2]
+    },
+    "insights": {
+      "Depression": "Your reported persistent sadness or emptiness is a core symptom of depression.",
+      "Anxiety": "Emotional distress can manifest as both anxiety and depression symptoms, as your responses suggest."
+    }
+  },
+  {
+    "id": 5,
+    "text": "How difficult is it for you to understand social cues or others' emotions?",
+    "options": [
+      "Not difficult at all",
+      "Slightly difficult",
+      "Moderately difficult",
+      "Very difficult",
+      "Extremely difficult"
+    ],
+    "scores": {
+      "ADHD": [0, 1, 2, 2, 3],
+      "ADD": [0, 1, 1, 2, 2],
+      "Anxiety": [0, 0, 1, 2, 2],
+      "Depression": [0, 0, 1, 2, 2],
+      "Autism": [0, 1, 3, 4, 5]
+    },
+    "insights": {
+      "Autism": "Your difficulty interpreting social cues and emotions is consistent with social communication challenges in autism.",
+      "ADHD": "Some social interpretation difficulties can overlap between ADHD and autism spectrum conditions."
+    }
+  },
+  {
+    "id": 6,
+    "text": "Do you have specific routines or rituals that you feel compelled to follow?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Very often"
+    ],
+    "scores": {
+      "ADHD": [0, 0, 1, 1, 2],
+      "ADD": [0, 0, 1, 1, 1],
+      "Anxiety": [0, 1, 2, 3, 4],
+      "Depression": [0, 0, 1, 1, 2],
+      "Autism": [0, 1, 2, 4, 5]
+    },
+    "insights": {
+      "Autism": "Your need for specific routines and rituals aligns with the preference for sameness often seen in autism.",
+      "Anxiety": "Ritualistic behaviors can sometimes develop as a way to manage underlying anxiety."
+    }
+  },
+  {
+    "id": 7,
+    "text": "How often do you find yourself interrupting others or having trouble waiting your turn?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Very often"
+    ],
+    "scores": {
+      "ADHD": [0, 1, 2, 4, 5],
+      "ADD": [0, 1, 2, 3, 4],
+      "Anxiety": [0, 0, 1, 1, 2],
+      "Depression": [0, 0, 0, 1, 1],
+      "Autism": [0, 0, 1, 2, 3]
+    },
+    "insights": {
+      "ADHD": "Your tendency to interrupt others or difficulty waiting your turn suggests impulsivity, a key component of ADHD.",
+      "ADD": "While less common in ADD than ADHD, your responses indicate some impulsivity challenges."
+    }
+  },
+  {
+    "id": 8,
+    "text": "Do you experience intense focus on specific interests to the exclusion of other activities?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Very often"
+    ],
+    "scores": {
+      "ADHD": [0, 0, 1, 2, 3],
+      "ADD": [0, 0, 1, 2, 2],
+      "Anxiety": [0, 0, 1, 1, 2],
+      "Depression": [0, 0, 1, 1, 1],
+      "Autism": [0, 1, 2, 4, 5]
+    },
+    "insights": {
+      "Autism": "Your intense focus on specific interests is consistent with the special interest patterns often seen in autism.",
+      "ADHD": "While different from autism, ADHD can sometimes manifest as hyperfocus on engaging activities."
+    }
+  },
+  {
+    "id": 9,
+    "text": "How often do you feel overwhelmed by sensory inputs (lights, sounds, textures)?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Very often"
+    ],
+    "scores": {
+      "ADHD": [0, 1, 2, 3, 3],
+      "ADD": [0, 1, 2, 2, 3],
+      "Anxiety": [0, 1, 2, 3, 4],
+      "Depression": [0, 0, 1, 2, 2],
+      "Autism": [0, 1, 3, 4, 5]
+    },
+    "insights": {
+      "Autism": "Your sensory sensitivities align with the sensory processing differences commonly experienced in autism.",
+      "Anxiety": "Heightened sensory awareness can also be related to increased anxiety and hypervigilance."
+    }
+  },
+  {
+    "id": 10,
+    "text": "Do you experience loss of interest or pleasure in activities you once enjoyed?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Very often"
+    ],
+    "scores": {
+      "ADHD": [0, 0, 1, 1, 2],
+      "ADD": [0, 0, 1, 1, 2],
+      "Anxiety": [0, 1, 2, 2, 3],
+      "Depression": [0, 1, 3, 4, 5],
+      "Autism": [0, 0, 1, 1, 2]
+    },
+    "insights": {
+      "Depression": "Your loss of interest or pleasure in previously enjoyed activities (anhedonia) is a cardinal symptom of depression.",
+      "Anxiety": "Chronic anxiety can sometimes lead to decreased enjoyment in activities due to persistent worry."
+    }
+  }
+]
